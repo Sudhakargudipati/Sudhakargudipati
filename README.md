@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on my Work
 - 📫 How to reach me 9581565758
-- 😄 Pronouns: friend
+- 😄 Pronouns: a friend
 - ⚡ Fun fact: Humor
 
 <!---
