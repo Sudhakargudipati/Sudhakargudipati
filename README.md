@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Sudhakargudipati
-- 👀 I’m interested in Technology
+- 👀 I’m interested in Tech-Nolodge
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on my Work
-- 📫 How to reach me gsreddy9581@gmail.com
-- 😄 Pronouns: a friend
+- 📫 How to reach me: gsreddy9581@gmail.com
+- 😄 Pronouns: Software Engineer
 - ⚡ Fun fact: Humor
 
 <!---
