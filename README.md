@@ -2,7 +2,7 @@
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on my Work
-- 📫 How to reach me 9581565758
+- 📫 How to reach me gsreddy9581@gmail.com
 - 😄 Pronouns: a friend
 - ⚡ Fun fact: Humor
 
